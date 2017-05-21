@@ -1,0 +1,6 @@
+body {
+  padding-top: 50px; }
+  body .outPatientForm {
+    padding-bottom: 25px; }
+  body .priorityControlPanel .panel-body h1, body .priorityControlPanel .panel-body p {
+    text-align: center; }
