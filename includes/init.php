@@ -1,7 +1,7 @@
 <?php
 
 define('HOST', 'localhost');
-define('DATABASE', 'db_iqs');
+define('DATABASE', 'iqs');
 define('USERNAME', 'root');
 define('PASSWORD', '');
 
